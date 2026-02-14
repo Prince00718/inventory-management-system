@@ -1,4 +1,4 @@
-📦 Inventory Management System yc 
+📦 Inventory Management System 
 
 ASP.NET Core Web API + ASP.NET MVC | MySQL | Admin Dashboard
 
@@ -25,7 +25,7 @@ This project is designed for college final year submission and real-world invent
 🚀 Features
 🔐 Authentication
 
-Admin login system
+Admin login system clean and clear
 
 Cookie-based authorization
 
