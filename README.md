@@ -1,4 +1,4 @@
-📦 Inventory Management System
+📦 Inventory Management System yc 
 
 ASP.NET Core Web API + ASP.NET MVC | MySQL | Admin Dashboard
 
